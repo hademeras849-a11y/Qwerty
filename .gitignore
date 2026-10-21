@@ -1,0 +1,13 @@
+# Data files — never commit
+*.json
+*.txt
+!requirements.txt
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
